@@ -1,39 +1,32 @@
-# Análise de Dados com Python
+# Data Analysis with Python
 
-Projeto desenvolvido durante a **Jornada Python da Hashtag Treinamentos** com foco em análise exploratória de dados e geração de insights.
+This project performs data analysis using Python to extract insights from a dataset.
 
-## 📌 Descrição
+⭐ Project developed for learning purposes.
 
-Neste projeto foi realizada uma análise de dados de uma base de clientes com o objetivo de entender padrões de comportamento e identificar possíveis causas de cancelamento.
-
-Os dados foram tratados, analisados e visualizados utilizando Python.
-
-## ⚙️ Tecnologias utilizadas
-
+## Technologies
 - Python
 - Pandas
-- Plotly
+
+## Project Overview
+
+The project explores a dataset using Python and Pandas to clean, manipulate, and analyze the data. The objective is to identify patterns and generate insights through exploratory data analysis.
+
+## How to Run
+
+1. Clone the repository
+```bash
+git clone https://github.com/LBaragao/analise_de_dados_python.git
+```
+2. Open the project folder
+3. Open the notebook file (.ipynb) using:
+
 - Jupyter Notebook
+- JupyterLab
+- Google Colab
+- VS Code
 
-## 🔎 Etapas do projeto
-
-1. Importação da base de dados
-2. Limpeza e tratamento das informações
-3. Análise exploratória dos dados
-4. Criação de gráficos e visualizações
-5. Identificação de padrões e possíveis insights
-
-## 📊 Resultados
-
-A análise permitiu identificar fatores que influenciam o comportamento dos clientes e que podem ajudar na tomada de decisão baseada em dados.
-
-## 📚 Aprendizados
-
-- Manipulação e tratamento de dados com Pandas
-- Visualização de dados
-- Análise exploratória de dados (EDA)
-- Interpretação de informações a partir de dados
-
-## 👨‍💻 Autor
-
-Lucas Winkler Baragão
+## Future Improvements
+- Add more visualizations to improve data interpretation
+- Expand the dataset for deeper analysis
+- Create dashboards to present the results
